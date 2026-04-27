@@ -13,3 +13,4 @@ Allowing BEV tokens to attend to image tokens
 Training with a contrastive objective (SimCLR / NT-Xent loss)
 
 No labels are required.
+Dataset used : kitti-3d-object-detection-dataset
