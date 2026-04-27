@@ -1,6 +1,7 @@
 ### Multimodal Contrastive Learning with Cross-Attention Fusion
 
 RGB Camera + LiDAR (BEV)
+<img width="1207" height="428" alt="Screenshot 2026-04-28 at 00 07 39" src="https://github.com/user-attachments/assets/4e7879bc-7ab6-4c22-8f85-a1b1977393e1" />
 
 ## Overview
 
